@@ -1,2 +1,2 @@
 # algorithms
-Basics Algorithms Problems 
+Basics Algorithms 
