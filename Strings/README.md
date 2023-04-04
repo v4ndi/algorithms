@@ -1,6 +1,8 @@
 
 <details>
-<summary></summary>
+<summary>
+[Расстояние Левенштейна ДПО](https://github.com/v4ndi/algorithms/blob/main/Strings/dist_levinshtain.cpp)
+</summary>
 
 | Ввод     | Вывод    | 
 |----------|----------|
@@ -8,4 +10,4 @@
 
 </details>
 
-Вы можете [открыть её](https://doka.guide) в своём браузере.
+
