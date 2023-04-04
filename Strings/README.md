@@ -1,6 +1,7 @@
 
 <details>
 <summary>
+
 [Расстояние Левенштейна ДПО](https://github.com/v4ndi/algorithms/blob/main/Strings/dist_levinshtain.cpp)
 </summary>
 
