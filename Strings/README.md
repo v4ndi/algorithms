@@ -1,13 +1,9 @@
 
-<details><summary>Расстояние Левенштейна ДПО</summary>
-Условие задачи:
-В данной задаче вы должны реализовать поиск расстояния Левенштейна между строками
-
-</details>
+<details>
+<summary>Name of details</summary>
 
 | Ввод     | Вывод    | 
 |----------|----------|
-|sunday    | 3 2      |
-|saturday  |          |
-|sunday    |          |
-|sudnay    |          |
+|2 <br>sunday</br> <br>saturday</br> <br>sunday</br> <br>sudnay</br>   | 3 2      |
+
+</details>
